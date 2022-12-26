@@ -3,8 +3,12 @@ package webapp;
 public class HomePage {
 
     // Setting up homepage
-// nav menu
+    // nav menu
 
-// more things for the homepage
-//logo
+    // more things for the homepage
+    //logo
+    // add more things
+    //footer
+
+
 }
