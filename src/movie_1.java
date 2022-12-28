@@ -1,3 +1,9 @@
 public class movie_1 {
-    // yes, diff opinion
+
+    // yes, we have a diff opinion,
+
+// but we still can communicate and accept
+
+   //  opinion of each other
+
 }
